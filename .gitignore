@@ -27,3 +27,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+
+# Generated vector database
+processed/vector_db/
